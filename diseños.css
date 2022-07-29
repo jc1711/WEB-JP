@@ -1,0 +1,122 @@
+/* Cuerpo de la pagina */
+body {
+    background-color: #f8d6ff; 
+}
+
+/* Cuerpo interno */
+main {
+    background-color: #d6fff4;
+    margin-left: 30PX;
+    margin-right: 30PX;
+    margin-top: 20PX;
+    margin-bottom: 20PX;
+    border: inset 8px #fde2fa;
+    text-align: center;
+}
+
+/* titulos h1 */
+main h1 {
+    font-family: fantasy;
+    font-size: 50px;
+
+}
+
+/* contenido del articulo clase present */
+
+article.present {
+    
+    margin-left: 100PX;
+    margin-right: 100px;
+    
+}
+
+/* titulos h1 de los articulos, clase present */
+
+article.present h1 {
+    font-family: fantasy;
+    font-size: 30px;
+}
+ /* imagen foto de presentacion, figcaption */
+figure.content img {
+    height: 230px;
+    border-radius: 20px;
+    margin-top: 15px;
+    margin-bottom: 50px;
+}
+
+/* texto de biografia y experiencia */
+figure.content figcaption {
+    font-family: serif;
+    font-size: 19px;
+    text-align: justify;
+}
+
+/* link de biografia */
+figure.content figcaption a {
+    text-decoration: none;
+}
+
+/* Anuncio de h1 en servicios*/
+h1.servicio {
+    margin-top: 100px;
+}
+
+/* parrafo de h1 descripcion */
+ p.sigue {
+    font-family: serif;
+    font-size: 20px;
+    margin-top: 40px;
+    margin-bottom: 60px;
+ }
+
+/* imagen representativa en bajar*/
+img.imagen {
+    height: 200px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+/* lista de servicios*/
+li {
+    text-align: left;
+    font-size: 23px;
+    font-weight: bold;
+    margin-top: 70px;
+    margin-bottom: 70px;
+    list-style: none;
+}
+
+/* imagenes de UL*/
+ul.servere img {
+    height: 300px;
+    width: 550px;
+    margin-right: 500px;
+    border-radius: 25px;
+}
+
+
+/* direccion de residencia*/
+main p {
+    margin-top: 200px;
+    margin-bottom: 20px;
+    font-family: cursive;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+/* contatos donde escribir*/
+main h2 {
+    margin-bottom: 50px;
+    font-family: cursive;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+/* contatos donde escribir*/
+a.link img {
+    height: 50px;
+    margin-left: 50px;
+    margin-bottom: 30px;
+      
+}
+
